@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Daniel Firth <dan.firth@codethink.co.uk>"]
 
 [dependencies]
-clap = { features = ["yaml"] }
+clap = { features = ["yaml"], version = "2.4.0"}
